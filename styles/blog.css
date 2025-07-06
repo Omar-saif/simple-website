@@ -4,7 +4,10 @@ div{
     border: 6px solid tomato;
 }
 p{
+    background-color: burlywood;
     margin: 12px;
+    padding: 4px;
+    box-shadow: 4px 6px 4px blueviolet;
 }
 h3{
     text-align: center;
